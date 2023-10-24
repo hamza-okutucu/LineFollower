@@ -2,7 +2,7 @@
 
 This project is a line-following robot implemented using LEGO Mindstorms EV3. The robot is designed to follow a colored line on the ground by using color sensors and a PID controller.
 
-<video src='https://youtu.be/uK9KtqUBzLQ' width=180/>
+https://youtu.be/uK9KtqUBzLQ
 
 ## Features
 
